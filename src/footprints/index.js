@@ -5,6 +5,8 @@ module.exports = {
     chocmini: require('./chocmini'),
     diode: require('./diode'),
     mountinghole: require('./mountinghole'),
+    xiao_rp2040: require('./xiao_rp2040'),
+    xiao_ble: require('./xiao_ble'),
     jstph: require('./jstph'),
     jumper: require('./jumper'),
     mx: require('./mx'),
