@@ -6,6 +6,7 @@ module.exports = {
     diode: require('./diode'),
     mountinghole: require('./mountinghole'),
     xiao_rp2040: require('./xiao_rp2040'),
+    rp2040_zero: require('./rp2040_zero'),
     xiao_ble: require('./xiao_ble'),
     jstph: require('./jstph'),
     jumper: require('./jumper'),
